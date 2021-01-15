@@ -1,4 +1,5 @@
-# Convert Cityperson Json Annotations to PASCAL VOC Format
+# citypersons2voc
+* Convert Cityperson Json Annotations to PASCAL VOC Format
 
 ### requirement
 * python3.6
